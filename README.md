@@ -1,5 +1,5 @@
 # Adamu_I_Henry_Portfolio
-I'm Data Analyst|Electrical Engineer
+I'm a Data Analyst | Electrical Engineer
 
 
 ## [Project 1: BELLABEAT CASE STUDY(https://github.com/adamuhenry/Bellabeat-capstone-project) 
