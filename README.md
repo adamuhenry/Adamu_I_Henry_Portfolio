@@ -1,9 +1,8 @@
-# Adamu_I_Henry_Portfolio
-I'm a Data Analyst |Electrical Engineer
+# ADAMU IMONPI HENRY Portfolio
+Welcome to this portiflio overview, I'm a Data Analyst and below are my projects
 
-# [Project 1: BELLABEAT CASE STUDY](https://github.com/adamuhenry/Bellabeat-capstone-project) 
-
-###  project coverage:
+## [Project 1: BELLABEAT CASE STUDY](https://github.com/adamuhenry/Bellabeat-capstone-project)
+###  Project coverage:
 This project is about Bellabeat company that manufactures intelligent smart Tech products for monitoring women's health. It was founded by Urška Sršen and Sando Mur . 
 Bellabeat offers a variety  of health trackers such as the Bellabeat app, Leaf Tracker, time(watch), spring bottle, etc. 
 These devices collect the user's data and stores this information and memory or apps. 
