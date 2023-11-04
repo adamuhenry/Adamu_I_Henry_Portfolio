@@ -11,3 +11,16 @@ The purpose of this project is to analyze this stored information to answer the 
   * What are some trends in smart device usage?
   * How could these trends apply to bellebeat customers?
   * How could these trends help influence Bellabeat's marketing strategy?
+
+
+### Contact
+ #1 Mgbo street off timber Road Oyigbo, Port Harcourt.
+ River State.
+ 
+ Tel: +2348033827781
+ 
+whatsapp:+2348033827781
+
+linkedin: www.linkedin.com/in/engr-henry-adamu-91704a299
+
+Twitter: @engradamuhenry
