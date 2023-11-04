@@ -1,4 +1,3 @@
-# ADAMU IMONPI HENRY Portfolio
 Welcome to this portiflio overview, I'm a Data Analyst and below are my projects
 
 ## [Project 1: BELLABEAT CASE STUDY](https://github.com/adamuhenry/Bellabeat-capstone-project)
