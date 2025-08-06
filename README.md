@@ -66,7 +66,7 @@ Enabled faster search and filtering for the client’s sales team.
 
 ## Certifications 
 Google Data Analytics Certificate (Coursera)
-* Foundation Data, data everywhere.
+* [Foundation Data, data everywhere](FOUNDATION DATA.pdf)
 * Ask question to make data-driven decisions.
 * Analyze data to answer question
 * Prepare Data for exploration
