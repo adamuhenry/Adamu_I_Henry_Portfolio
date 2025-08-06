@@ -65,14 +65,15 @@ Tasks Performed:
 Enabled faster search and filtering for the client’s sales team.
 
 ## Certifications 
-Google Data Analytics Certificate (Coursera)
-* [Foundation Data, data everywhere](FOUNDATION DATA.pdf)
-* Ask question to make data-driven decisions.
-* Analyze data to answer question
-* Prepare Data for exploration
-* Process Data from Dirty to Clean
-* Data analysis with R programming
-* Share data through the art of vizualization
+[Google Data Analytics Certificate (Coursera)](https://github.com/adamuhenry/Adamu_I_Henry_Portfolio/blob/main/Google%20data%20analytics%20cert..pdf)
+* [Foundation Data, data everywhere](https://github.com/adamuhenry/Adamu_I_Henry_Portfolio/blob/main/FOUNDATION%20DATA.pdf)
+* [Ask question to make data-driven decisions](https://github.com/adamuhenry/Adamu_I_Henry_Portfolio/blob/main/ASK%20QUESTION%20TO%20MAKE%20DATA%20DRIVEN%20DECISIONS.pdf)
+* [Analyze data to answer question](https://github.com/adamuhenry/Adamu_I_Henry_Portfolio/blob/main/ANALYZE%20DATA.pdf)
+* [Prepare Data for exploration](https://github.com/adamuhenry/Adamu_I_Henry_Portfolio/blob/main/PREPARE%20DATA%20FOR%20EXPLORATION.pdf)
+* [Process Data from Dirty to Clean](https://github.com/adamuhenry/Adamu_I_Henry_Portfolio/blob/main/PROCESS%20DATA%20FROM%20DIRTY%20TO%20CLEAN.pdf)
+* [Data analysis with R programming](https://github.com/adamuhenry/Adamu_I_Henry_Portfolio/blob/main/R%20PROGRAMMING.pdf)
+* [Share data through the art of vizualization](https://github.com/adamuhenry/Adamu_I_Henry_Portfolio/blob/main/ART%20OF%20VISUALIZATION.pdf)
+* [Case study Certificate](https://github.com/adamuhenry/Adamu_I_Henry_Portfolio/blob/main/case%20study%20certificate.pdf)
 
 
 ### Contact
